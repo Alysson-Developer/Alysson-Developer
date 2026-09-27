@@ -8,9 +8,9 @@ Construindo aplicações, jogos e produtos digitais — do código à experiênc
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](SEU_SITE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:<SEU_EMAIL>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://portfolio-gj1c.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alysson-sb/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alyssonsb.dev@gmail.com)
 
 </div>
 
@@ -132,37 +132,18 @@ Meus jogos podem ser encontrados na minha própria **Game Library**, juntamente 
 
 <div align="center">
 
-[![Game Library](https://img.shields.io/badge/🎮_Game_Library-Visit-111111?style=for-the-badge)](LINK_DA_GAME_LIBRARY)
+[![Game Library](https://img.shields.io/badge/🎮_Game_Library-Visit-111111?style=for-the-badge)](https://a-sb.itch.io/)
 
 </div>
 
----
-
-## 🛒 Produtos digitais
-
-Também estou desenvolvendo uma loja própria para disponibilizar:
-
-* Templates
-* Projetos
-* Ferramentas
-* Assets
-* Outros produtos digitais
-
-<div align="center">
-
-[![E-commerce](https://img.shields.io/badge/🛒_E--commerce-Visit-111111?style=for-the-badge)](https://portfolio-gj1c.onrender.com)
-
-</div>
-
----
 
 ## 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=<Alysson-Developer>&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alysson-Developer&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Alysson-Developer>&layout=compact&hide_border=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Developer&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -172,9 +153,9 @@ Também estou desenvolvendo uma loja própria para disponibilizar:
 
 <div align="center">
 
-### [https://portfolio-gj1c.onrender.com](SEU_SITE)
+### [Clique e acesse!](https://portfolio-gj1c.onrender.com)
 
-**Portfolio · E-commerce · Game Library**
+**Portfolio · Game Library**
 
 <br>
 
