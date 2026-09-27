@@ -16,7 +16,7 @@ Construindo aplicações, jogos e produtos digitais — do código à experiênc
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor focado principalmente no ecossistema **C# / .NET**, com interesse em desenvolvimento web, arquitetura de sistemas e criação de jogos.
 
@@ -26,13 +26,13 @@ Atualmente, estou construindo minha própria plataforma para reunir meus projeto
 
 ---
 
-## 🚀 O que estou construindo
+## O que estou construindo
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🌐 Portfolio
+### Portfolio
 
 Um espaço para apresentar meus projetos, trabalhos e experiências como desenvolvedor.
 
@@ -47,7 +47,7 @@ Um espaço para apresentar meus projetos, trabalhos e experiências como desenvo
 
 <td width="33%" valign="top">
 
-### 🛒 E-commerce
+### E-commerce
 
 Uma loja própria para comercializar projetos, templates e outros produtos digitais.
 
@@ -63,7 +63,7 @@ Uma loja própria para comercializar projetos, templates e outros produtos digit
 
 <td width="33%" valign="top">
 
-### 🎮 Game Library
+### Game Library
 
 Uma biblioteca própria para disponibilizar meus jogos e seus arquivos para download.
 
@@ -81,7 +81,7 @@ Uma biblioteca própria para disponibilizar meus jogos e seus arquivos para down
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Backend
 
@@ -112,19 +112,19 @@ Uma biblioteca própria para disponibilizar meus jogos e seus arquivos para down
 
 ---
 
-## 📌 Atualmente
+## Atualmente
 
-* 🔨 Desenvolvendo minha plataforma pessoal
-* 💻 Aprofundando meus conhecimentos em **C# e .NET**
-* 🌐 Desenvolvendo aplicações web com **ASP.NET Core e Blazor**
-* 🗄️ Trabalhando com **PostgreSQL e Entity Framework Core**
-* ☁️ Explorando **Azure e Cloudflare**
-* 🎮 Desenvolvendo e distribuindo jogos
-* 🛒 Criando soluções para venda e distribuição de produtos digitais
+* Desenvolvendo minha plataforma pessoal
+* Aprofundando meus conhecimentos em **C# e .NET**
+* Desenvolvendo aplicações web com **ASP.NET Core e Blazor**
+* Trabalhando com **PostgreSQL e Entity Framework Core**
+* Explorando **Azure e Cloudflare**
+* Desenvolvendo e distribuindo jogos
+* Criando soluções para venda e distribuição de produtos digitais
 
 ---
 
-## 🎮 Jogos
+## Jogos
 
 Além do desenvolvimento de software, também trabalho com criação de jogos.
 
@@ -137,19 +137,25 @@ Meus jogos podem ser encontrados na minha própria **Game Library**, juntamente 
 </div>
 
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alysson-Developer&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Alysson-Developer&show_icons=true&theme=transparent"
+  alt="GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Developer&layout=compact&hide_border=true&theme=transparent"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Developer&layout=compact&theme=transparent"
+  alt="Top Languages"
+/>
 
 </div>
 
 ---
 
-## 🌐 Encontre meu trabalho
+## Encontre meu trabalho
 
 <div align="center">
 
