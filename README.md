@@ -124,37 +124,6 @@ Uma biblioteca própria para disponibilizar meus jogos e seus arquivos para down
 
 ---
 
-## Jogos
-
-Além do desenvolvimento de software, também trabalho com criação de jogos.
-
-Meus jogos podem ser encontrados na minha própria **Game Library**, juntamente com informações, versões e downloads.
-
-<div align="center">
-
-[![Game Library](https://img.shields.io/badge/🎮_Game_Library-Visit-111111?style=for-the-badge)](https://a-sb.itch.io/)
-
-</div>
-
-
-## GitHub
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Alysson-Developer&show_icons=true&theme=transparent"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Developer&layout=compact&theme=transparent"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
 ## Encontre meu trabalho
 
 <div align="center">
