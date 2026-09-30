@@ -130,8 +130,6 @@ Uma biblioteca própria para disponibilizar meus jogos e seus arquivos para down
 
 ### [Clique e acesse!](https://portfolio-gj1c.onrender.com)
 
-**Portfolio**
-
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://portfolio-gj1c.onrender.com)
