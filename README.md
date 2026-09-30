@@ -130,13 +130,12 @@ Uma biblioteca própria para disponibilizar meus jogos e seus arquivos para down
 
 ### [Clique e acesse!](https://portfolio-gj1c.onrender.com)
 
-**Portfolio · Game Library**
+**Portfolio**
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://portfolio-gj1c.onrender.com)
 [![Games](https://img.shields.io/badge/Games-Visit-111111?style=for-the-badge\&logo=itchdotio\&logoColor=white)](https://a-sb.itch.io/)
-[![Store](https://img.shields.io/badge/Store-Visit-111111?style=for-the-badge\&logo=shopify\&logoColor=white)](https://portfolio-gj1c.onrender.com)
 
 </div>
 
