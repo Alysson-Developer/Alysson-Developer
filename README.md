@@ -8,7 +8,7 @@ Construindo aplicações, jogos e produtos digitais — do código à experiênc
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://app-alyssonsb-portfolio-azure.azurewebsites.net/admin/settings)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://app-alyssonsb-portfolio-azure.azurewebsites.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alysson-sb/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alyssonsb.dev@gmail.com)
 
@@ -132,7 +132,7 @@ Uma biblioteca própria para disponibilizar meus jogos e seus arquivos para down
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://app-alyssonsb-portfolio-azure.azurewebsites.net/admin/settings)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://app-alyssonsb-portfolio-azure.azurewebsites.net)
 [![Games](https://img.shields.io/badge/Games-Visit-111111?style=for-the-badge\&logo=itchdotio\&logoColor=white)](https://a-sb.itch.io/)
 
 </div>
